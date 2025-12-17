@@ -5,7 +5,7 @@
 #include "freertos/timers.h"
 #include "driver/gpio.h"
 
-#define MOTOR_GPIO_PIN         GPIO_NUM_18
+#define MOTOR_GPIO_PIN         GPIO_NUM_6
 #define MOTOR_TIMEOUT_MS       10000
 #define MOTOR_STATUS_PERIOD_MS 1000
 
